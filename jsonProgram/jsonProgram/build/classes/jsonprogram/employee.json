@@ -1,0 +1,12 @@
+{
+	"id":123,
+	"name":"Phelps Robert",
+	"permanent":true,
+	"address":{
+			"street":" Peppertree CT.",
+			"city":"West Sacramento",
+			"zipcode":95691
+		},
+	"phoneNumbers":[9166622372],
+	"role":" Technical Analyst"
+}
