@@ -2,10 +2,6 @@ package com.jcg;
 
 import javax.swing.table.DefaultTableModel;
 
-/**
- * @author ashraf
- *
- */
 @SuppressWarnings("serial")
 public class Model extends DefaultTableModel {
 
