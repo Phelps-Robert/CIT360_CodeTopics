@@ -12,10 +12,6 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.border.TitledBorder;
 
-/**
- * @author ashraf
- *
- */
 public class View {
 
 	public View() {
