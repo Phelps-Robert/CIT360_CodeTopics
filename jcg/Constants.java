@@ -1,9 +1,5 @@
 package com.jcg;
 
-/**
- * @author ashraf_sarhan
- * 
- */
 public class Constants {
 
 	public static final Object[] TABLE_HEADER = { "Symbol", "Company Name",
