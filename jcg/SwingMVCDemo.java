@@ -2,10 +2,6 @@ package com.jcg;
 
 import javax.swing.SwingUtilities;
 
-/**
- * @author ashraf_sarhan
- * 
- */
 public class SwingMVCDemo {
 
 	public static void main(String[] args) {
