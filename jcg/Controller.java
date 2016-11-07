@@ -7,10 +7,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
-/**
- * @author ashraf
- *
- */
 public class Controller implements ActionListener {
 	
 	private JTextField searchTermTextField = new JTextField(26);
