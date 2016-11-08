@@ -1,6 +1,10 @@
 
 package hibernate.database;
 
+/**
+ *
+ * @author RJ
+ */
 public class HibernateDemo {
     public void runHibernateDemo() {
         // Hibernate

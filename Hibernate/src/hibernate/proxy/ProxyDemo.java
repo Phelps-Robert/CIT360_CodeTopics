@@ -1,6 +1,10 @@
 
 package hibernate.proxy;
 
+/**
+ *
+ * @RJ
+ */
 public class ProxyDemo {
     public void runProxyDemo() {
         // Proxy Pattern

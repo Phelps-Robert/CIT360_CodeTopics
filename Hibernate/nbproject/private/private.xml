@@ -1,4 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/database/HibernateDemo.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/database/Employee.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/factory/Square.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/database_script.sql</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/proxy/ProxyDemo.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/factory/Rectangle.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/Hibernate.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/Employee.hbm.xml</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate_example.cfg.xml</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/proxy/ProxyImage.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/proxy/RealImage.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/factory/Shape.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/factory/ShapeFactory.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/database/StoreData.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/factory/Circle.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/singleton/Singleton.java</file>
+            <file>file:/C:/Users/RJ/Desktop/Hibernate/src/hibernate/singleton/SingletonDemo.java</file>
+        </group>
+    </open-files>
 </project-private>

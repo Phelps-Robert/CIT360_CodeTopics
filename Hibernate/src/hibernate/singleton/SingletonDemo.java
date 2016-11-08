@@ -1,6 +1,10 @@
 
 package hibernate.singleton;
 
+/**
+ *
+ * @author RJ
+ */
 public class SingletonDemo {
     public void runSingletonDemo() {
         // Singleton Pattern

@@ -68,10 +68,7 @@ public class Employee {
         if (!Objects.equals(this.firstName, other.firstName)) {
             return false;
         }
-        if (!Objects.equals(this.lastName, other.lastName)) {
-            return false;
-        }
-        return true;
+        return Objects.equals(this.lastName, other.lastName);
     }
 
     @Override

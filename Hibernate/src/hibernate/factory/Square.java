@@ -1,6 +1,7 @@
 
 package hibernate.factory;
 
+
 public class Square implements Shape {
 
     @Override

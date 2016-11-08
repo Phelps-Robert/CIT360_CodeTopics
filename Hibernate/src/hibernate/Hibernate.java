@@ -1,10 +1,4 @@
-/*
-* Name: Robert Phelps
-* Date: 10/19
-*
-* Program: Hibernate 
-*
-*/
+
 package hibernate;
 
 import hibernate.factory.FactoryDemo;
@@ -13,14 +7,17 @@ import hibernate.singleton.SingletonDemo;
 import hibernate.database.HibernateDemo;
 import java.util.Scanner;
 
-
+/**
+ *
+ * @author RJ
+ */
 public class Hibernate {
 
-    private static final String MENUITEMS = "Please make a selection:\n"
-            + "\t0. Exit\n"
-            + "\t1. Singleton \n"
-            + "\t2. Proxy \n"
-            + "\t3. Factory \n"
+    private static final String MENUITEMS = "Please select a menu item:\n"
+            + "\t0. Exit Program\n"
+            + "\t1. Singleton\n"
+            + "\t2. Proxy\n"
+            + "\t3. Factory\n"
             + "\t4. Hibernate Database\n";
     /**
      * @param args the command line arguments

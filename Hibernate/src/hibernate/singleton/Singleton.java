@@ -1,6 +1,10 @@
 
 package hibernate.singleton;
 
+/**
+ *
+ * @author RJ
+ */
 public class Singleton {
     private static Singleton instance = null;
     
