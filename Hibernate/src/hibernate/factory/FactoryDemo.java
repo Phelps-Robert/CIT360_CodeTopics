@@ -7,7 +7,7 @@ package hibernate.factory;
 
 /**
  *
- * @author Keith
+ * @author RJ
  */
 public class FactoryDemo {
     public void runFactoryDemo() {
